@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class SelectionSort {
 
     /**
-     * Sorts an array of integers in increasing order using selection sort
+     * Sorts an array of integers in non-decreasing order using selection sort
      * algorithm.
      * 
      * @param array The array of integers to be sorted.

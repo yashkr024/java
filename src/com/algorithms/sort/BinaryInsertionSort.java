@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class BinaryInsertionSort {
 
     /**
-     * Sorts an array of integers in increasing order using insertion sort
+     * Sorts an array of integers in non-decreasing order using insertion sort
      * algorithm, but instead of using linear search to find the index where
      * {@code key} needs to be inserted, it uses binary search.
      * 

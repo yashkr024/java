@@ -44,7 +44,7 @@ public class Heapsort {
     }
 
     /**
-     * Sorts an array of integers in increasing order using heapsort algorithm.
+     * Sorts an array of integers in non-decreasing order using heapsort algorithm.
      *
      * @param array The array of integers to be sorted.
      */

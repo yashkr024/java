@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class CountingSort {
 
     /**
-     * Sorts an array of integers in increasing order using counting sort
+     * Sorts an array of integers in non-decreasing order using counting sort
      * algorithm.
      * 
      * @param array The array of integers to be sorted.

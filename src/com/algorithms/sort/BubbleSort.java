@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class BubbleSort {
 
     /**
-     * Sorts an array of integers in increasing order using bubble sort
+     * Sorts an array of integers in non-decreasing order using bubble sort
      * algorithm.
      * 
      * @param array The array of integers to be sorted.

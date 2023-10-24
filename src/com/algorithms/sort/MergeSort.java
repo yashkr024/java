@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class MergeSort {
 
     /**
-     * Sorts an array of integers in increasing order using merge sort
+     * Sorts an array of integers in non-decreasing order using merge sort
      * algorithm.
      * 
      * @param array The array of integers to be sorted.

@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class Shellsort {
 
     /**
-     * Sorts an array of integers in increasing order using Shellsort algorithm.
+     * Sorts an array of integers in non-decreasing order using Shellsort algorithm.
      * 
      * @param array The array of integers to be sorted.
      */
@@ -35,7 +35,6 @@ public class Shellsort {
                     j -= k;
                 }
                 array[j + k] = key;
-
             }
 
         }

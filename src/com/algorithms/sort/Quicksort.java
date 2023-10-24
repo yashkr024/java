@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class Quicksort {
 
     /**
-     * Sorts an array of integers in increasing order using quicksort algorithm.
+     * Sorts an array of integers in non-decreasing order using Quicksort algorithm.
      * 
      * @param array The array of integers to be sorted.
      */
@@ -19,7 +19,7 @@ public class Quicksort {
     }
 
     /**
-     * Recursively sorts a subarray using the Quicksort algorithm.
+     * Recursively sorts a subarray in non-decreasing using the Quicksort algorithm.
      *
      * @param array The array of integers to be sorted.
      * @param start The starting index of the subarray.
